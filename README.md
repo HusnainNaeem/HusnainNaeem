@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Husnain Naeem</h
+<h1 align="center">Hi 👋, I'm Husnain Naeem</h1>
 ![myBanner](https://github.com/HusnainNaeem/HusnainNaeem/assets/134217312/f4118a55-100a-41fa-931c-6277065d1683)
-1>
-
 <h3 align="center">A Certified Cyber Security Analyst | Google certifed || Software Developer | java Mobile & Desktop Application | Database | SQL | Python Developer | Machine Learnig | C++ & C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="husnainnaeem" /> </p>
