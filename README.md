@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Husnain Naeem</h1>
 <p align="center">
-  <img src="https://github.com/HusnainNaeem/HusnainNaeem/raw/main/myBanner.png" alt="myBanner"/>
+  <img src="C:\Users\user\Downloads\Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1).png" alt="myBanner"/>
 </p>
 <h3 align="center">A Certified Cyber Security Analyst | Google certified | Software Developer | Java Mobile & Desktop Application | Database | SQL | Python Developer | Machine Learning | C++ & C</h3>
 
