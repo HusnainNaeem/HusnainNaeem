@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Husnain Naeem</h1>
 <p align="center">
-  <img src="C:\Users\user\Downloads\Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1).png" alt="myBanner"/>
-</p>
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://github.com/HusnainNaeem/HusnainNaeem/assets/134217312/204463bf-b83c-4ebb-810b-c2624c0e7ee7)
+
 <h3 align="center">A Certified Cyber Security Analyst | Google certified | Software Developer | Java Mobile & Desktop Application | Database | SQL | Python Developer | Machine Learning | C++ & C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="husnainnaeem" /> </p>
